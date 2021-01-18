@@ -1,1 +1,1 @@
-# alikhan-abzhanov.github.io
+Blog of Alikhan Abzhanov
