@@ -1,0 +1,13 @@
+h3, img, time, h2, p {margin-bottom: 2.4rem;}
+
+h1 {font: 700 2rem/1.2 "Times New Roman"; color: hsl(000, 0%, 100%);}
+h2 {font: 400 1.5rem/1.2 "Times New Roman"; color: hsl(000, 0%, 90%);}
+time {font: 700 1rem/1.2 "Roboto"; color: hsl(000, 0%, 80%);}
+h3 {font: 700 1rem/1.2 "Roboto"; color: hsl(000, 0%, 90%);}
+p {font: 400 1rem/1.5 "Arial"; color: hsl(000, 0%, 85%);}
+figcaption p {font: 400 1rem/1.5 "Roboto"; color: hsl(000, 000%, 70%);}
+
+a {box-shadow: inset 0 -0.17em blue;}
+
+@media (max-width: 8.5in) {:root {font-size: 18px;}}
+@media (max-width: 5in) {:root {font-size: 16px;}}
